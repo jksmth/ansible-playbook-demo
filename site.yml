@@ -1,0 +1,4 @@
+---
+- host: default
+  become: true
+  roles: []
